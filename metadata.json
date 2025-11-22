@@ -1,0 +1,5 @@
+{
+  "name": "RubNong Color Sorter",
+  "description": "A real-time, balanced color sorting application for freshman orientation events. Features instant assignment, balanced distribution logic, and a live dashboard.",
+  "requestFramePermissions": []
+}
